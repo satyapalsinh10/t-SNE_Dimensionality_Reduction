@@ -42,6 +42,11 @@ After encoding the Fashion-MNIST images into a lower-dimensional space, t-SNE is
 
 The t-SNE visualization plots the encoded Fashion-MNIST images in a 2D scatter plot, where each point represents an image. Points belonging to the same category are typically clustered together, demonstrating the effectiveness of the autoencoder in capturing the underlying structure of the data.
 
+<p align="center">
+  <img src="output/t-SNE.png" alt="Undistorted" width="600"/>
+</p>
+
+
 ## Acknowledgments
 
 - The Fashion-MNIST dataset was originally created by [Zalando Research](https://github.com/zalandoresearch/fashion-mnist).
